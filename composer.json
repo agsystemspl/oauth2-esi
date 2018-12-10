@@ -1,8 +1,8 @@
 {
-    "name": "agsystemspl/oauth2-allegro",
+    "name": "agsystemspl/oauth2-esi",
     "version": "0.9.0",
-    "description": "Allegro OAuth2 Client.",
-    "keywords": ["allegro", "oauth", "oauth2", "rest"],
+    "description": "ESI OAuth2 Client.",
+    "keywords": ["esi", "oauth", "oauth2", "rest"],
     "license": "MIT",
     "authors": [
         {
